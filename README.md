@@ -11,7 +11,7 @@ A water level indicator circuit for household water tanks plays a crucial role i
 ## SchDoc:
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e2b29086-a3a5-4e84-885c-9206b0930de3" alt="Schematic" />
+  <img src="https://github.com/user-attachments/assets/bed183fd-01a2-41ad-96c0-a70fc1d8e26b" alt="Schematic 1" />
 </div>
 
 ---
@@ -19,7 +19,7 @@ A water level indicator circuit for household water tanks plays a crucial role i
 ## PcbDoc (2D View):
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5afde085-0e4c-4c00-9c64-f322a4a6c28c" alt="PCB 2D View" />
+  <img src="https://github.com/user-attachments/assets/06b52a16-8a1a-463b-acea-63884caa7bcb" alt="Schematic 2" />
 </div>
 
 ---
@@ -27,5 +27,5 @@ A water level indicator circuit for household water tanks plays a crucial role i
 ## PcbDoc (3D View):
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/49cff17d-2cc6-44bf-be1f-28de496a08f2" alt="PCB Layout 3D" />
+  <img src="https://github.com/user-attachments/assets/5beccfbb-5088-47f2-b678-0b125e3a30ab" alt="PCB Layout" />
 </div>
